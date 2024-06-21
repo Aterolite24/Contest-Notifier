@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Contest Notifier
+Comment=A tool that provides timely notifications for upcoming competitive programming contests across various platforms.
+Exec=/usr/bin/python3 /home/achal/Documents/linux-app/glademethod.py
+Icon=/home/achal/Documents/linux-app/icon.png
+Terminal=false
+Type=Application
+Categories=Development;GTK;
