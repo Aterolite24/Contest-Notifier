@@ -1,3 +1,4 @@
 dist/contestnotifier filter=lfs diff=lfs merge=lfs -text
 build/contestnotifier/contestnotifier.pkg filter=lfs diff=lfs merge=lfs -text
 build/contestnotifier/localpycs filter=lfs diff=lfs merge=lfs -text
+build/contestnotifier/_pyi_gschema_compilation filter=lfs diff=lfs merge=lfs -text
